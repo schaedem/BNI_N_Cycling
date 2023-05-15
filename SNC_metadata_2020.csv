@@ -1,0 +1,337 @@
+﻿sample,gwc,pH,timepoint,date,location,treatment,block
+201,0.09,5.16,1,9/17/20,Rubona,maize monoculture,1
+202,0.09,5.99,1,9/17/20,Rubona,Napier grass,1
+203,0.06,5.65,1,9/17/20,Rubona,Brachiaria cv. Mulato II,1
+204,0.06,5.61,1,9/17/20,Rubona,Desmodium distortum,1
+205,0.08,5.39,1,9/17/20,Rubona,Maize + Desmodium,1
+206,0.07,5.29,1,9/17/20,Rubona,Napier + Desmodium,1
+207,0.02,5.51,1,9/17/20,Rubona,Brachiaria + Desmodium,1
+208,0.08,5.45,1,9/17/20,Rubona,maize monoculture,2
+209,0.07,5.65,1,9/17/20,Rubona,Napier grass,2
+210,0.07,5.55,1,9/17/20,Rubona,Brachiaria cv. Mulato II,2
+211,0.11,5.31,1,9/17/20,Rubona,Desmodium distortum,2
+212,0.05,5.44,1,9/17/20,Rubona,Maize + Desmodium,2
+213,0.06,5.6,1,9/17/20,Rubona,Napier + Desmodium,2
+214,0.07,,1,9/17/20,Rubona,Brachiaria + Desmodium,2
+215,0.07,5.33,1,9/17/20,Rubona,maize monoculture,3
+216,0.07,5.34,1,9/17/20,Rubona,Napier grass,3
+217,0.06,5.74,1,9/17/20,Rubona,Brachiaria cv. Mulato II,3
+218,0.05,5.34,1,9/17/20,Rubona,Desmodium distortum,3
+219,0.04,5.39,1,9/17/20,Rubona,Maize + Desmodium,3
+220,0.06,5.42,1,9/17/20,Rubona,Napier + Desmodium,3
+221,0.06,5.54,1,9/17/20,Rubona,Brachiaria + Desmodium,3
+222,0.08,5.05,1,9/17/20,Rubona,maize monoculture,4
+223,0.06,5.29,1,9/17/20,Rubona,Napier grass,4
+224,0.07,5.35,1,9/17/20,Rubona,Brachiaria cv. Mulato II,4
+225,0.06,5.22,1,9/17/20,Rubona,Desmodium distortum,4
+226,0.06,5.21,1,9/17/20,Rubona,Maize + Desmodium,4
+227,0.06,5.26,1,9/17/20,Rubona,Napier + Desmodium,4
+228,0.06,5.78,1,9/17/20,Rubona,Brachiaria + Desmodium,4
+229,0.1,5.88,1,9/16/20,Karama,maize monoculture,1
+230,0.14,5.99,1,9/16/20,Karama,Napier grass,1
+231,0.14,6.06,1,9/16/20,Karama,Brachiaria cv. Mulato II,1
+232,0.11,6.13,1,9/16/20,Karama,Desmodium distortum,1
+233,0.06,6.16,1,9/16/20,Karama,Maize + Desmodium,1
+234,0.12,6.34,1,9/16/20,Karama,Napier + Desmodium,1
+235,0.11,6.09,1,9/16/20,Karama,Brachiaria + Desmodium,1
+236,0.12,5.85,1,9/16/20,Karama,maize monoculture,2
+237,0.14,6.77,1,9/16/20,Karama,Napier grass,2
+238,0.14,6.45,1,9/16/20,Karama,Brachiaria cv. Mulato II,2
+239,0.12,6.21,1,9/16/20,Karama,Desmodium distortum,2
+240,0.13,5.96,1,9/16/20,Karama,Maize + Desmodium,2
+241,0.15,6.25,1,9/16/20,Karama,Napier + Desmodium,2
+242,0.13,5.93,1,9/16/20,Karama,Brachiaria + Desmodium,2
+243,0.12,6.22,1,9/16/20,Karama,maize monoculture,3
+244,0.15,6.15,1,9/16/20,Karama,Napier grass,3
+245,0.14,6.15,1,9/16/20,Karama,Brachiaria cv. Mulato II,3
+246,0.14,5.85,1,9/16/20,Karama,Desmodium distortum,3
+247,0.15,6.19,1,9/16/20,Karama,Maize + Desmodium,3
+248,0.13,6.25,1,9/16/20,Karama,Napier + Desmodium,3
+249,0.12,6.29,1,9/16/20,Karama,Brachiaria + Desmodium,3
+250,0.13,6.31,1,9/16/20,Karama,maize monoculture,4
+251,0.15,6.49,1,9/16/20,Karama,Napier grass,4
+252,0.11,6.47,1,9/16/20,Karama,Brachiaria cv. Mulato II,4
+253,0.14,6.48,1,9/16/20,Karama,Desmodium distortum,4
+254,0.16,6.25,1,9/16/20,Karama,Maize + Desmodium,4
+255,0.13,6.11,1,9/16/20,Karama,Napier + Desmodium,4
+256,0.04,5.94,1,9/16/20,Karama,Brachiaria + Desmodium,4
+301,0.13,5.16,2,10/7/20,Rubona,maize monoculture,1
+302,0.13,5.99,2,10/7/20,Rubona,Napier grass,1
+303,0.13,5.65,2,10/7/20,Rubona,Brachiaria cv. Mulato II,1
+304,0.14,5.61,2,10/7/20,Rubona,Desmodium distortum,1
+305,0.12,5.39,2,10/7/20,Rubona,Maize + Desmodium,1
+306,0.1,5.29,2,10/7/20,Rubona,Napier + Desmodium,1
+307,0.11,5.51,2,10/7/20,Rubona,Brachiaria + Desmodium,1
+308,0.11,5.45,2,10/7/20,Rubona,maize monoculture,2
+309,0.14,5.65,2,10/7/20,Rubona,Napier grass,2
+310,0.11,5.55,2,10/7/20,Rubona,Brachiaria cv. Mulato II,2
+311,0.1,5.31,2,10/7/20,Rubona,Desmodium distortum,2
+312,0.11,5.44,2,10/7/20,Rubona,Maize + Desmodium,2
+313,0.11,5.6,2,10/7/20,Rubona,Napier + Desmodium,2
+314,0.1,,2,10/7/20,Rubona,Brachiaria + Desmodium,2
+315,0.14,5.33,2,10/7/20,Rubona,maize monoculture,3
+316,0.13,5.34,2,10/7/20,Rubona,Napier grass,3
+317,0.13,5.74,2,10/7/20,Rubona,Brachiaria cv. Mulato II,3
+318,0.13,5.34,2,10/7/20,Rubona,Desmodium distortum,3
+319,0.12,5.39,2,10/7/20,Rubona,Maize + Desmodium,3
+320,0.13,5.42,2,10/7/20,Rubona,Napier + Desmodium,3
+321,0.13,5.54,2,10/7/20,Rubona,Brachiaria + Desmodium,3
+322,0.14,5.05,2,10/7/20,Rubona,maize monoculture,4
+323,0.11,5.29,2,10/7/20,Rubona,Napier grass,4
+324,0.12,5.35,2,10/7/20,Rubona,Brachiaria cv. Mulato II,4
+325,0.1,5.22,2,10/7/20,Rubona,Desmodium distortum,4
+326,0.13,5.21,2,10/7/20,Rubona,Maize + Desmodium,4
+327,0.1,5.26,2,10/7/20,Rubona,Napier + Desmodium,4
+328,0.13,5.78,2,10/6/20,Rubona,Brachiaria + Desmodium,4
+329,0.05,5.88,2,10/6/20,Karama,maize monoculture,1
+330,0.14,5.99,2,10/6/20,Karama,Napier grass,1
+331,0.13,6.06,2,10/6/20,Karama,Brachiaria cv. Mulato II,1
+332,0.12,6.13,2,10/6/20,Karama,Desmodium distortum,1
+333,0.11,6.16,2,10/6/20,Karama,Maize + Desmodium,1
+334,0.12,6.34,2,10/6/20,Karama,Napier + Desmodium,1
+335,0.13,6.09,2,10/6/20,Karama,Brachiaria + Desmodium,1
+336,0.1,5.85,2,10/6/20,Karama,maize monoculture,2
+337,0.07,6.77,2,10/6/20,Karama,Napier grass,2
+338,0.08,6.45,2,10/6/20,Karama,Brachiaria cv. Mulato II,2
+339,0.12,6.21,2,10/6/20,Karama,Desmodium distortum,2
+340,0.14,5.96,2,10/6/20,Karama,Maize + Desmodium,2
+341,0.1,6.25,2,10/6/20,Karama,Napier + Desmodium,2
+342,0.12,5.93,2,10/6/20,Karama,Brachiaria + Desmodium,2
+343,0.1,6.22,2,10/6/20,Karama,maize monoculture,3
+344,0.14,6.15,2,10/6/20,Karama,Napier grass,3
+345,0.11,6.15,2,10/6/20,Karama,Brachiaria cv. Mulato II,3
+346,0.09,5.85,2,10/6/20,Karama,Desmodium distortum,3
+347,0.1,6.19,2,10/6/20,Karama,Maize + Desmodium,3
+348,0.13,6.25,2,10/6/20,Karama,Napier + Desmodium,3
+349,0.12,6.29,2,10/6/20,Karama,Brachiaria + Desmodium,3
+350,0.13,6.31,2,10/6/20,Karama,maize monoculture,4
+351,0.15,6.49,2,10/6/20,Karama,Napier grass,4
+352,0.16,6.47,2,10/6/20,Karama,Brachiaria cv. Mulato II,4
+353,0.12,6.48,2,10/6/20,Karama,Desmodium distortum,4
+354,0.14,6.25,2,10/6/20,Karama,Maize + Desmodium,4
+355,0.12,6.11,2,10/6/20,Karama,Napier + Desmodium,4
+356,0.14,5.94,2,10/6/20,Karama,Brachiaria + Desmodium,4
+401,0.15,5.16,3,11/19/20,Rubona,maize monoculture,1
+402,0.14,5.99,3,11/19/20,Rubona,Napier grass,1
+403,0.17,5.65,3,11/19/20,Rubona,Brachiaria cv. Mulato II,1
+404,0.16,5.61,3,11/19/20,Rubona,Desmodium distortum,1
+405,0.15,5.39,3,11/19/20,Rubona,Maize + Desmodium,1
+406,0.16,5.29,3,11/19/20,Rubona,Napier + Desmodium,1
+407,0.15,5.51,3,11/19/20,Rubona,Brachiaria + Desmodium,1
+408,0.17,5.45,3,11/19/20,Rubona,maize monoculture,2
+409,0.16,5.65,3,11/19/20,Rubona,Napier grass,2
+410,0.14,5.55,3,11/19/20,Rubona,Brachiaria cv. Mulato II,2
+411,0.17,5.31,3,11/19/20,Rubona,Desmodium distortum,2
+412,0.15,5.44,3,11/19/20,Rubona,Maize + Desmodium,2
+413,0.15,5.6,3,11/19/20,Rubona,Napier + Desmodium,2
+414,0.14,,3,11/19/20,Rubona,Brachiaria + Desmodium,2
+415,0.16,5.33,3,11/19/20,Rubona,maize monoculture,3
+416,0.16,5.34,3,11/19/20,Rubona,Napier grass,3
+417,0.17,5.74,3,11/19/20,Rubona,Brachiaria cv. Mulato II,3
+418,0.17,5.34,3,11/19/20,Rubona,Desmodium distortum,3
+419,0.15,5.39,3,11/19/20,Rubona,Maize + Desmodium,3
+420,0.14,5.42,3,11/19/20,Rubona,Napier + Desmodium,3
+421,0.17,5.54,3,11/19/20,Rubona,Brachiaria + Desmodium,3
+422,0.15,5.05,3,11/19/20,Rubona,maize monoculture,4
+423,0.18,5.29,3,11/19/20,Rubona,Napier grass,4
+424,0.15,5.35,3,11/19/20,Rubona,Brachiaria cv. Mulato II,4
+425,0.14,5.22,3,11/19/20,Rubona,Desmodium distortum,4
+426,0.18,5.21,3,11/19/20,Rubona,Maize + Desmodium,4
+427,0.17,5.26,3,11/19/20,Rubona,Napier + Desmodium,4
+428,0.14,5.78,3,11/18/20,Rubona,Brachiaria + Desmodium,4
+429,0.12,5.88,3,11/18/20,Karama,maize monoculture,1
+430,0.13,5.99,3,11/18/20,Karama,Napier grass,1
+431,0.13,6.06,3,11/18/20,Karama,Brachiaria cv. Mulato II,1
+432,0.13,6.13,3,11/18/20,Karama,Desmodium distortum,1
+433,0.15,6.16,3,11/18/20,Karama,Maize + Desmodium,1
+434,0.12,6.34,3,11/18/20,Karama,Napier + Desmodium,1
+435,0.15,6.09,3,11/18/20,Karama,Brachiaria + Desmodium,1
+436,0.13,5.85,3,11/18/20,Karama,maize monoculture,2
+437,0.14,6.77,3,11/18/20,Karama,Napier grass,2
+438,0.15,6.45,3,11/18/20,Karama,Brachiaria cv. Mulato II,2
+439,0.12,6.21,3,11/18/20,Karama,Desmodium distortum,2
+440,0.15,5.96,3,11/18/20,Karama,Maize + Desmodium,2
+441,0.13,6.25,3,11/18/20,Karama,Napier + Desmodium,2
+442,0.14,5.93,3,11/18/20,Karama,Brachiaria + Desmodium,2
+443,0.13,6.22,3,11/18/20,Karama,maize monoculture,3
+444,0.13,6.15,3,11/18/20,Karama,Napier grass,3
+445,0.1,6.15,3,11/18/20,Karama,Brachiaria cv. Mulato II,3
+446,0.14,5.85,3,11/18/20,Karama,Desmodium distortum,3
+447,0.14,6.19,3,11/18/20,Karama,Maize + Desmodium,3
+448,0.15,6.25,3,11/18/20,Karama,Napier + Desmodium,3
+449,0.14,6.29,3,11/18/20,Karama,Brachiaria + Desmodium,3
+450,0.14,6.31,3,11/18/20,Karama,maize monoculture,4
+451,0.14,6.49,3,11/18/20,Karama,Napier grass,4
+452,0.16,6.47,3,11/18/20,Karama,Brachiaria cv. Mulato II,4
+453,0.13,6.48,3,11/18/20,Karama,Desmodium distortum,4
+454,0.14,6.25,3,11/18/20,Karama,Maize + Desmodium,4
+455,0.15,6.11,3,11/18/20,Karama,Napier + Desmodium,4
+456,0.13,5.94,3,11/18/20,Karama,Brachiaria + Desmodium,4
+501,0.148330059,5.16,4,12/8/20,Rubona,maize monoculture,1
+502,0.179254783,5.99,4,12/8/20,Rubona,Napier grass,1
+503,0.155599604,5.65,4,12/8/20,Rubona,Brachiaria cv. Mulato II,1
+504,0.145098039,5.61,4,12/8/20,Rubona,Desmodium distortum,1
+505,0.135874878,5.39,4,12/8/20,Rubona,Maize + Desmodium,1
+506,0.162410623,5.29,4,12/8/20,Rubona,Napier + Desmodium,1
+507,0.144288577,5.51,4,12/8/20,Rubona,Brachiaria + Desmodium,1
+508,0.142276423,5.45,4,12/8/20,Rubona,maize monoculture,2
+509,0.141878669,5.65,4,12/8/20,Rubona,Napier grass,2
+510,0.142433234,5.55,4,12/8/20,Rubona,Brachiaria cv. Mulato II,2
+511,0.131868132,5.31,4,12/8/20,Rubona,Desmodium distortum,2
+512,0.144400786,5.44,4,12/8/20,Rubona,Maize + Desmodium,2
+513,0.138033764,5.6,4,12/8/20,Rubona,Napier + Desmodium,2
+514,0.1352657,,4,12/8/20,Rubona,Brachiaria + Desmodium,2
+515,0.154368932,5.33,4,12/8/20,Rubona,maize monoculture,3
+516,0.154455446,5.34,4,12/8/20,Rubona,Napier grass,3
+517,0.15628091,5.74,4,12/8/20,Rubona,Brachiaria cv. Mulato II,3
+518,0.153623188,5.34,4,12/8/20,Rubona,Desmodium distortum,3
+519,0.156650246,5.39,4,12/8/20,Rubona,Maize + Desmodium,3
+520,0.159883721,5.42,4,12/8/20,Rubona,Napier + Desmodium,3
+521,0.155445545,5.54,4,12/8/20,Rubona,Brachiaria + Desmodium,3
+522,0.140159046,5.05,4,12/8/20,Rubona,maize monoculture,4
+523,0.143430291,5.29,4,12/8/20,Rubona,Napier grass,4
+524,0.136363636,5.35,4,12/8/20,Rubona,Brachiaria cv. Mulato II,4
+525,0.131131131,5.22,4,12/8/20,Rubona,Desmodium distortum,4
+526,0.142576205,5.21,4,12/8/20,Rubona,Maize + Desmodium,4
+527,0.141025641,5.26,4,12/8/20,Rubona,Napier + Desmodium,4
+528,0.137862138,5.78,4,12/7/20,Rubona,Brachiaria + Desmodium,4
+529,0.122789784,5.88,4,12/7/20,Karama,maize monoculture,1
+530,0.127576055,5.99,4,12/7/20,Karama,Napier grass,1
+531,0.119417476,6.06,4,12/7/20,Karama,Brachiaria cv. Mulato II,1
+532,0.123781676,6.13,4,12/7/20,Karama,Desmodium distortum,1
+533,0.117475728,6.16,4,12/7/20,Karama,Maize + Desmodium,1
+534,0.105731225,6.34,4,12/7/20,Karama,Napier + Desmodium,1
+535,0.117073171,6.09,4,12/7/20,Karama,Brachiaria + Desmodium,1
+536,0.118627451,5.85,4,12/7/20,Karama,maize monoculture,2
+537,0.109144543,6.77,4,12/7/20,Karama,Napier grass,2
+538,0.123138034,6.45,4,12/7/20,Karama,Brachiaria cv. Mulato II,2
+539,0.121807466,6.21,4,12/7/20,Karama,Desmodium distortum,2
+540,0.129126214,5.96,4,12/7/20,Karama,Maize + Desmodium,2
+541,0.115087041,6.25,4,12/7/20,Karama,Napier + Desmodium,2
+542,0.120706575,5.93,4,12/7/20,Karama,Brachiaria + Desmodium,2
+543,0.133858268,6.22,4,12/7/20,Karama,maize monoculture,3
+544,0.11627907,6.15,4,12/7/20,Karama,Napier grass,3
+545,0.121272366,6.15,4,12/7/20,Karama,Brachiaria cv. Mulato II,3
+546,0.106237817,5.85,4,12/7/20,Karama,Desmodium distortum,3
+547,0.133928571,6.19,4,12/7/20,Karama,Maize + Desmodium,3
+548,0.141453831,6.25,4,12/7/20,Karama,Napier + Desmodium,3
+549,0.11804878,6.29,4,12/7/20,Karama,Brachiaria + Desmodium,3
+550,0.11770428,6.31,4,12/7/20,Karama,maize monoculture,4
+551,0.120271581,6.49,4,12/7/20,Karama,Napier grass,4
+552,0.133464181,6.47,4,12/7/20,Karama,Brachiaria cv. Mulato II,4
+553,0.123505976,6.48,4,12/7/20,Karama,Desmodium distortum,4
+554,0.113837095,6.25,4,12/7/20,Karama,Maize + Desmodium,4
+555,0.125992063,6.11,4,12/7/20,Karama,Napier + Desmodium,4
+556,0.129970902,5.94,4,12/7/20,Karama,Brachiaria + Desmodium,4
+601,0.12,5.16,5,1/20/21,Rubona,maize monoculture,1
+602,0.12,5.99,5,1/20/21,Rubona,Napier grass,1
+603,0.14,5.65,5,1/20/21,Rubona,Brachiaria cv. Mulato II,1
+604,0.12,5.61,5,1/20/21,Rubona,Desmodium distortum,1
+605,0.13,5.39,5,1/20/21,Rubona,Maize + Desmodium,1
+606,0.14,5.29,5,1/20/21,Rubona,Napier + Desmodium,1
+607,0.14,5.51,5,1/20/21,Rubona,Brachiaria + Desmodium,1
+608,0.11,5.45,5,1/20/21,Rubona,maize monoculture,2
+609,0.13,5.65,5,1/20/21,Rubona,Napier grass,2
+610,0.13,5.55,5,1/20/21,Rubona,Brachiaria cv. Mulato II,2
+611,0.13,5.31,5,1/20/21,Rubona,Desmodium distortum,2
+612,0.13,5.44,5,1/20/21,Rubona,Maize + Desmodium,2
+613,0.13,5.6,5,1/20/21,Rubona,Napier + Desmodium,2
+614,0.14,,5,1/20/21,Rubona,Brachiaria + Desmodium,2
+615,0.14,5.33,5,1/20/21,Rubona,maize monoculture,3
+616,0.15,5.34,5,1/20/21,Rubona,Napier grass,3
+617,0.13,5.74,5,1/20/21,Rubona,Brachiaria cv. Mulato II,3
+618,0.15,5.34,5,1/20/21,Rubona,Desmodium distortum,3
+619,0.13,5.39,5,1/20/21,Rubona,Maize + Desmodium,3
+620,0.15,5.42,5,1/20/21,Rubona,Napier + Desmodium,3
+621,0.14,5.54,5,1/20/21,Rubona,Brachiaria + Desmodium,3
+622,0.12,5.05,5,1/20/21,Rubona,maize monoculture,4
+623,0.13,5.29,5,1/20/21,Rubona,Napier grass,4
+624,0.12,5.35,5,1/20/21,Rubona,Brachiaria cv. Mulato II,4
+625,0.12,5.22,5,1/20/21,Rubona,Desmodium distortum,4
+626,0.13,5.21,5,1/20/21,Rubona,Maize + Desmodium,4
+627,0.12,5.26,5,1/20/21,Rubona,Napier + Desmodium,4
+628,0.12,5.78,5,1/19/21,Rubona,Brachiaria + Desmodium,4
+629,0.12,5.88,5,1/19/21,Karama,maize monoculture,1
+630,0.15,5.99,5,1/19/21,Karama,Napier grass,1
+631,0.14,6.06,5,1/19/21,Karama,Brachiaria cv. Mulato II,1
+632,0.13,6.13,5,1/19/21,Karama,Desmodium distortum,1
+633,0.13,6.16,5,1/19/21,Karama,Maize + Desmodium,1
+634,0.13,6.34,5,1/19/21,Karama,Napier + Desmodium,1
+635,0.13,6.09,5,1/19/21,Karama,Brachiaria + Desmodium,1
+636,0.13,5.85,5,1/19/21,Karama,maize monoculture,2
+637,0.13,6.77,5,1/19/21,Karama,Napier grass,2
+638,0.14,6.45,5,1/19/21,Karama,Brachiaria cv. Mulato II,2
+639,0.14,6.21,5,1/19/21,Karama,Desmodium distortum,2
+640,0.15,5.96,5,1/19/21,Karama,Maize + Desmodium,2
+641,0.14,6.25,5,1/19/21,Karama,Napier + Desmodium,2
+642,0.14,5.93,5,1/19/21,Karama,Brachiaria + Desmodium,2
+643,0.14,6.22,5,1/19/21,Karama,maize monoculture,3
+644,0.14,6.15,5,1/19/21,Karama,Napier grass,3
+645,0.16,6.15,5,1/19/21,Karama,Brachiaria cv. Mulato II,3
+646,0.13,5.85,5,1/19/21,Karama,Desmodium distortum,3
+647,0.13,6.19,5,1/19/21,Karama,Maize + Desmodium,3
+648,0.16,6.25,5,1/19/21,Karama,Napier + Desmodium,3
+649,0.13,6.29,5,1/19/21,Karama,Brachiaria + Desmodium,3
+650,0.12,6.31,5,1/19/21,Karama,maize monoculture,4
+651,0.15,6.49,5,1/19/21,Karama,Napier grass,4
+652,0.16,6.47,5,1/19/21,Karama,Brachiaria cv. Mulato II,4
+653,0.12,6.48,5,1/19/21,Karama,Desmodium distortum,4
+654,0.14,6.25,5,1/19/21,Karama,Maize + Desmodium,4
+655,0.17,6.11,5,1/19/21,Karama,Napier + Desmodium,4
+656,0.13,5.94,5,1/19/21,Karama,Brachiaria + Desmodium,4
+701,0.193913043,5.16,6,2/11/21,Rubona,maize monoculture,1
+702,0.164939551,5.99,6,2/11/21,Rubona,Napier grass,1
+703,0.168674699,5.65,6,2/11/21,Rubona,Brachiaria cv. Mulato II,1
+704,0.153782211,5.61,6,2/11/21,Rubona,Desmodium distortum,1
+705,0.152052239,5.39,6,2/11/21,Rubona,Maize + Desmodium,1
+706,0.16462841,5.29,6,2/11/21,Rubona,Napier + Desmodium,1
+707,0.168007149,5.51,6,2/11/21,Rubona,Brachiaria + Desmodium,1
+708,0.179063361,5.45,6,2/11/21,Rubona,maize monoculture,2
+709,0.177756654,5.65,6,2/11/21,Rubona,Napier grass,2
+710,0.148722628,5.55,6,2/11/21,Rubona,Brachiaria cv. Mulato II,2
+711,0.14571949,5.31,6,2/11/21,Rubona,Desmodium distortum,2
+712,0.176735798,5.44,6,2/11/21,Rubona,Maize + Desmodium,2
+713,0.159235669,5.6,6,2/11/21,Rubona,Napier + Desmodium,2
+714,0.159498208,,6,2/11/21,Rubona,Brachiaria + Desmodium,2
+715,0.167408727,5.33,6,2/11/21,Rubona,maize monoculture,3
+716,0.156669651,5.34,6,2/11/21,Rubona,Napier grass,3
+717,0.184021544,5.74,6,2/11/21,Rubona,Brachiaria cv. Mulato II,3
+718,0.182882883,5.34,6,2/11/21,Rubona,Desmodium distortum,3
+719,0.1776028,5.39,6,2/11/21,Rubona,Maize + Desmodium,3
+720,0.16146789,5.42,6,2/11/21,Rubona,Napier + Desmodium,3
+721,0.163179916,5.54,6,2/11/21,Rubona,Brachiaria + Desmodium,3
+722,0.157798165,5.05,6,2/11/21,Rubona,maize monoculture,4
+723,0.155060353,5.29,6,2/11/21,Rubona,Napier grass,4
+724,0.14986124,5.35,6,2/11/21,Rubona,Brachiaria cv. Mulato II,4
+725,0.140611354,5.22,6,2/11/21,Rubona,Desmodium distortum,4
+726,0.174872666,5.21,6,2/11/21,Rubona,Maize + Desmodium,4
+727,0.142218247,5.26,6,2/11/21,Rubona,Napier + Desmodium,4
+728,0.136067102,5.78,6,2/10/21,Rubona,Brachiaria + Desmodium,4
+729,0.101754386,5.88,6,2/10/21,Karama,maize monoculture,1
+730,0.117050691,5.99,6,2/10/21,Karama,Napier grass,1
+731,0.158362989,6.06,6,2/10/21,Karama,Brachiaria cv. Mulato II,1
+732,0.12010919,6.13,6,2/10/21,Karama,Desmodium distortum,1
+733,0.117967332,6.16,6,2/10/21,Karama,Maize + Desmodium,1
+734,0.112701252,6.34,6,2/10/21,Karama,Napier + Desmodium,1
+735,0.116031887,6.09,6,2/10/21,Karama,Brachiaria + Desmodium,1
+736,0.107843137,5.85,6,2/10/21,Karama,maize monoculture,2
+737,0.115420129,6.77,6,2/10/21,Karama,Napier grass,2
+738,0.125113327,6.45,6,2/10/21,Karama,Brachiaria cv. Mulato II,2
+739,0.131702728,6.21,6,2/10/21,Karama,Desmodium distortum,2
+740,0.117647059,5.96,6,2/10/21,Karama,Maize + Desmodium,2
+741,0.130314233,6.25,6,2/10/21,Karama,Napier + Desmodium,2
+742,0.120580236,5.93,6,2/10/21,Karama,Brachiaria + Desmodium,2
+743,0.107376284,6.22,6,2/10/21,Karama,maize monoculture,3
+744,0.122065728,6.15,6,2/10/21,Karama,Napier grass,3
+745,0.129502573,6.15,6,2/10/21,Karama,Brachiaria cv. Mulato II,3
+746,0.114695341,5.85,6,2/10/21,Karama,Desmodium distortum,3
+747,0.098143236,6.19,6,2/10/21,Karama,Maize + Desmodium,3
+748,0.127320955,6.25,6,2/10/21,Karama,Napier + Desmodium,3
+749,0.114901257,6.29,6,2/10/21,Karama,Brachiaria + Desmodium,3
+750,0.108156028,6.31,6,2/10/21,Karama,maize monoculture,4
+751,0.122854562,6.49,6,2/10/21,Karama,Napier grass,4
+752,0.134683099,6.47,6,2/10/21,Karama,Brachiaria cv. Mulato II,4
+753,0.099910794,6.48,6,2/10/21,Karama,Desmodium distortum,4
+754,0.108991826,6.25,6,2/10/21,Karama,Maize + Desmodium,4
+755,0.122130395,6.11,6,2/10/21,Karama,Napier + Desmodium,4
+756,0.117540687,5.94,6,2/10/21,Karama,Brachiaria + Desmodium,4
