@@ -63,3 +63,32 @@ _NH4_final.csv_: ammonium dataset
 _NO3_final.csv_: nitrate dataset
 
 ## Scripts
+
+_corr_matrices_genes_soil.R_ : correlation testing and matrix plotting for qPCR and soil data
+
+_overall_changes.R_: analysis for net change in minN and enzyme activity
+
+_karama_mean_by_time_enzyme_plots.R_: plots for enzyme activity over time (Karama, Supplemental Materials)
+
+_karama_mean_by_time_minN_plot.R_: plots for minN over time (Karama, Supplemental Materials)
+
+_rubona_mean_by_time_enzyme_plots.R_: plots for enzyme activity over time (Rubona, Supplemental Materials)
+
+_rubona_mean_by_time_minN_plots.R_: plots for minN over time (Rubona, Supplemental Materials)
+
+_LASSO_NP_DEA_all_genes.R_: GLMMM LASSO analysis for genetic determinants of NP and DEA
+
+_permanova_community_differences.R_: PERMANOVA analysis for N cycle functional gene abundances
+
+_permanova_soil_differences.R_: PERMANOVA analysis for biochemical soil properties
+
+_genes_lmer_plot_fun.R_: function to run linear mixed models and plot results for N cycle functional gene abundances
+
+_plot_lmer_Denitgenes_exec.R_: execute genes_lmer_plot_fun.R for denitrification targets and arrange output (Supplemenetal Materials)
+
+_plot_lmer_Nitgenes_exec.R_: execute genes_lmer_plot_fun.R for denitrification targets and arrange output (Supplemenetal Materials)
+
+_site_community_NMDS_plots.R_: NMDS plots of soil properties overlaid with species scores (N cycle functional genes)
+
+
+
