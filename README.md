@@ -48,18 +48,18 @@ _final_nice_std_data.csv_: standardized high-throughput qPCR N cycle gene abunda
 
 _assay_list_2.csv_: metadata for high-throughput qPCR
 
-_dea_final.csv_: 
+_dea_final.csv_: denitrification enzyme activity dataset
 
-_np_final.csv_:
+_np_final.csv_: nitrification potential dataset
 
-_poxc_final_snc.csv_:
+_poxc_final_snc.csv_: permanganate-oxidizable carbon dataset
 
-_SNC_metadata_2020.csv_:
+_SNC_metadata_2020.csv_: metadata for soil samples
 
-_SNC_NPOC_TN_infal.csv_:
+_SNC_NPOC_TN_infal.csv_: non-purgable organic carbon and dissolved organic nitrogen dataset
 
-_NH4_final.csv_:
+_NH4_final.csv_: ammonium dataset
 
-_NO3_final.csv_:
+_NO3_final.csv_: nitrate dataset
 
 ## Scripts
