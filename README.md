@@ -41,3 +41,25 @@ Shimadzu (NPOC, TON)
 HT-qPCR (NiCE Chip)
 
 ## Datasets
+
+_16S_data.csv_ : 16S rRNA gene abundance data from conventional qPCR
+
+_final_nice_std_data.csv_: standardized high-throughput qPCR N cycle gene abundances used in analysis
+
+_assay_list_2.csv_: metadata for high-throughput qPCR
+
+_dea_final.csv_: 
+
+_np_final.csv_:
+
+_poxc_final_snc.csv_:
+
+_SNC_metadata_2020.csv_:
+
+_SNC_NPOC_TN_infal.csv_:
+
+_NH4_final.csv_:
+
+_NO3_final.csv_:
+
+## Scripts
