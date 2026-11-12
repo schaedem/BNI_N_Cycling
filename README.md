@@ -2,7 +2,7 @@
  
 ## This repository contains soil datasets associated with Schaedel et al. (2026) : Nitrogen cycling functional gene abundance and potential activity in novel perennial forage cropping systems in Rwanda
 #### DOI: 10.1002/saj2.70322
-### Processing scripts for conventional and high-throuphut qPCR can be found at https://github.com/schaedem/NiCE_Chip_Paper
+#### Processing scripts for conventional and high-throuphut qPCR can be found at https://github.com/schaedem/NiCE_Chip_Paper
 
 The goal of this project was to:
 
